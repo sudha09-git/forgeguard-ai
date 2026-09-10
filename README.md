@@ -149,3 +149,8 @@ project2/
 
 *ForgeGuard AI — Built for IBM AI Hackathon demonstration*  
 *Technologies: React · FastAPI · IBM Langflow · IBM Granite 13B · IBM watsonx.ai*
+
+
+## 📊 Project Presentation
+
+[📥 Download Project Presentation](./ForgeGuard_AI_Project_Presentation.pptx)
